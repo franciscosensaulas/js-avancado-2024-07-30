@@ -1,0 +1,51 @@
+{
+  "marcas": [
+    {
+      "id": "1",
+      "nome": "Apple"
+    },
+    {
+      "id": "2",
+      "nome": "Samsung"
+    },
+    {
+      "id": "99df",
+      "nome": "Nvidia"
+    },
+    {
+      "id": "795f",
+      "nome": "Amd"
+    },
+    {
+      "id": "8fcf",
+      "nome": "Dell"
+    },
+    {
+      "id": "2821",
+      "nome": "Dell"
+    },
+    {
+      "id": "9721",
+      "nome": "Intel"
+    },
+    {
+      "id": "b650",
+      "nome": "Razer"
+    }
+  ],
+  "filmes": [
+    {
+      "id": 1,
+      "nome": "Avangers",
+      "duracao": 180,
+      "classificacao": 5
+    }
+  ],
+  "estados": [
+    {
+      "id": 1,
+      "nome": "Santa Catarina",
+      "sigla": "SC"
+    } 
+  ]
+}

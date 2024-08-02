@@ -1,0 +1,22 @@
+{
+  "name": "requisicoes",
+  "version": "1.0.0",
+  "description": "Exemplo de como utilizar requisições",
+  "main": "marcas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscosensaulas/js-avancado-2024-07-30.git"
+  },
+  "author": "Francisco Lucas Janesch Lange Sens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscosensaulas/js-avancado-2024-07-30/issues"
+  },
+  "homepage": "https://github.com/franciscosensaulas/js-avancado-2024-07-30#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}

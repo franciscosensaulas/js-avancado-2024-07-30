@@ -123,7 +123,6 @@ function calcularSalarioLiquido(salarioBruto, descontos){
     return salarioLiquido;
 }
 
-// https://dontpad.com/franciscosensaulas/js
 function exemploFolhaPagamento() {
     let valorHora = 20;
     let quantidadeHoras = 220;
